@@ -1,0 +1,5 @@
+# Ignorar la carpeta cache de las ejecuciones
+models/__pycache__
+
+# Ignorarla carpeta de la maquina virtual de desarrollo
+.venv
